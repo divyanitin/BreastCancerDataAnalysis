@@ -9,3 +9,5 @@ surfaces and other abnormal characteristics. Today, automated image analysis can
 measurements of the nuclei of the cells in a picture of a sample without human intervention. From
 the UC-Irvine machine learning archive we have the Wisconsin Breast Cancer Dataset, with nuclei
 measurements of 569 samples, some benign and some tumor.
+
+K-Nearset Neighbors and Random Forest models were applied
